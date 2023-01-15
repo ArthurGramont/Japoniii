@@ -1,0 +1,56 @@
+@import url(./page_1.css);
+
+@import url(./page_2.css);
+
+@import url(./page_3.css);
+
+@import url(./page_4.css);
+
+@import url(./page_5.css);
+
+@import url(./navbar.css);
+
+@import url(./rod.css);
+
+@import url(./grid.css);
+
+@import url(./title.css);
+
+@import url(./numbers.css);
+
+@import url(./footer.css);
+
+
+
+@font-face {
+    font-family: Beach_Resort;
+    src: url("../assets/font/Beach_Resort/Beach_Resort.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Coco_Biker;
+    src: url("../assets/font/Coco_Biker/CocoBiker_Regular_Trial.ttf") format("truetype");
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none!important;
+    list-style-type: none;
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+body {
+    font-family: Beach_Resort;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+a {
+    text-align: center;
+    color: white;
+}

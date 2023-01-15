@@ -1,0 +1,14 @@
+.title_article {
+    font-family: Coco_Biker;
+    display: flex;
+    justify-content: center;
+    font-size: 5em;
+    color: white;
+    padding: 60px;
+
+}
+
+p {
+    color: white;
+    font-size: 2em;;
+}

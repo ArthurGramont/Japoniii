@@ -1,0 +1,37 @@
+.bottom_wave {
+    width: 100vw;
+    position: absolute;
+    bottom: -90px;
+    overflow-x: auto;
+}
+
+.barre_page1 {
+    transform: rotate(90deg);
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    border-radius: 25px;
+    background-color: white;
+    width: 5px;
+    height: 10%;
+    left: 1425px;
+    bottom: 70px;
+}
+
+.page_1 {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../assets/image/856316.jpg");
+    background-size: 100vw 100vh;
+    position: relative;
+}
+
+.title {
+    font-family: Coco_Biker;
+    display: flex;
+    padding-top: 285px;
+    padding-left: 350px;
+    font-size: 7em;
+    z-index: 2;
+}

@@ -1,0 +1,105 @@
+.white_bar1 {
+    position: fixed;
+    margin-left: 105px;
+    margin-top: 50px;
+    border: 3px solid white;
+    border-radius: 25px;
+    background-color: white;
+    z-index: 2;
+    top: 10px;
+    left: 1px;
+    width: 82em;
+}
+
+.white_bar2 {
+    position:  fixed;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 105px;
+    margin-bottom: 50px;
+    border: 3px solid white;
+    border-radius: 25px;
+    background-color: white;
+    z-index: 2;
+    bottom: -20px;
+    left: 1px;
+    width: 82em;
+}
+
+
+
+
+.barre1 {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    background-color: white;
+    width: 3px;
+}
+
+.barre2 {
+    transform: rotate(90deg);
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    background-color: white;
+    width: 5px;
+    height: 50%;
+    top: -15px;
+}
+
+.big_barre1_p2_p4 {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    background-color: white;
+    width: 5px;
+    height: 450%;
+    top: -125px;
+    right: 100px;
+
+}
+
+.big_barre2_p2_p4 {
+    transform: rotate(90deg);
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    background-color: white;
+    width: 5px;
+    height: 550%;
+    top: -150px;
+    right: 100px;
+
+}
+
+.big_barre1_p3_p5 {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    background-color: white;
+    width: 5px;
+    height: 450%;
+    top: -25px;
+    right: -60px;
+
+}
+
+.big_barre2_p3_p5 {
+    transform: rotate(90deg);
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    background-color: white;
+    width: 5px;
+    height: 550%;
+    top: -200px;
+    right: -300px;
+
+}

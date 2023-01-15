@@ -1,0 +1,25 @@
+.main_foot {
+    background-color: #001220;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.nav_foot {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-bottom: 3em;
+    gap: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foot_end {
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    bottom: 30px;
+}

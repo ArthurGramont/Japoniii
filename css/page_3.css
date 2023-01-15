@@ -1,0 +1,90 @@
+.barre_page3 {
+    transform: rotate(90deg);
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid white;
+    border-radius: 25px;
+    background-color: white;
+    width: 5px;
+    height: 10%;
+    left: 1145px;
+    bottom: -30px;
+}
+
+.page_3 {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../assets/image/layered-waves-haikei-2.png");
+    background-size: 100vw 100vh;
+}
+
+#img_baguettes {
+    position: relative;
+    grid-column: 1 / 3;
+    grid-row: 1 / 2;
+    bottom: 50px;
+    left: 150px;
+}
+
+#barre_baguettes {
+    position: relative;
+    grid-column: 2 / 2;
+    grid-row: 1 / 2;
+    left: 50px;
+    bottom: 30px;
+}
+
+#titre_baguettes {
+    position: relative;
+    grid-column: 2 / 2;
+    grid-row: 1 / 2;
+    left: 100px;
+    top: 30px;
+}
+
+#img_aikido {
+    position: relative;
+    grid-column: 2 / 3;
+    grid-row: 3 / 3;
+}
+
+#barre_aikido {
+    position: relative;
+    grid-column: 1 / 2;
+    grid-row: 3 / 3;
+    top: 30px;
+    left: 250px;
+}
+
+#titre_aikido {
+    position: relative;
+    grid-column: 1 / 2;
+    grid-row: 3 / 3;
+    top: 90px;
+    left: 150px;
+}
+
+#img_mochis {
+    position: relative;
+    grid-column: 4 / 4;
+    grid-row: 1  / 3;
+    right: 150px;
+    top: 30px;
+}
+
+#barre_mochis {
+    position: relative;
+    grid-column: 4 / 4;
+    grid-row: 3 / 4;
+    top: 70px;
+    left: 50px;
+}
+
+#titre_mochis {
+    position: relative;
+    grid-column: 4 / 4;
+    grid-row: 3 / 4;
+    top: 170px;
+    left: 25px;
+}

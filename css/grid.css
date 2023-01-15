@@ -1,0 +1,17 @@
+.grid {
+    width: 100vw;
+    margin-top: 100px;
+    padding: 70px;
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    grid-template-rows: repeat(3, 100px);
+    grid-gap: 10px;
+    color: white;
+    position: relative;
+    bottom: 175px;
+}
+
+.grid>div {
+    min-height: 20vh;
+
+}
